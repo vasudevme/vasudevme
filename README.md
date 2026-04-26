@@ -1,5 +1,7 @@
 # 💫 About Me:
-🚀 I’m currently working on  <br>AI-powered applications and full-stack web projects like EventSphere and productivity tools.<br><br>🤝 I’m looking to collaborate on  <br>Open-source projects related to AI, web development, and automation.<br><br>🧠 I’m looking for help with  <br>Advanced AI/ML concepts and building scalable backend systems.<br><br>🌱 I’m currently learning  <br>Machine Learning, System Design, and improving my DSA skills.<br><br>💬 Ask me about  <br>Full-stack development, React, Python, and building real-world projects.<br><br>⚡ Fun fact  <br>I enjoy turning real-world problems into smart, scalable solutions using code.
+🚀 I’m currently working on  <br>AI-powered applications and full-stack web projects like EventSphere and productivity tools.<br><br>🤝 I’m looking to collaborate on  <br>Open-source projects related to AI, web development, and automation.<br><br>🧠 I’m looking for help with  <br>Advanced AI/ML concepts and building scalable backend systems.<br><br>🌱 I’m currently learning  <br>Machine Learning, System Design, and improving my DSA skills.<br><br>💬 Ask me about  <br>Full-stack development, React, Python, and building real-world projects.<br><br>⚡ Fun fact  <br>I enjoy turning real-world problems into smart, scalable solutions using code.<br><br>## 🚀 Featured Project ### 🌐 EventSphere Website  A web platform for managing events and productivity tools.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balap0510&repo=Event-sphere-website)](https://github.com/balap0510/Event-sphere-website)
 
 
 ## 🌐 Socials:
